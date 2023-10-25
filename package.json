@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-video-editor-fixed",
+  "version": "1.0.0",
+  "description": "A plugin to assist in video editing tasks",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cordova": {
+    "id": "cordova-plugin-video-fixed",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esavolai/cordova-plugin-video-editor-fixed.git"
+  },
+  "contributors": [
+    {
+      "name": "Josh Bavari",
+      "web": "https://twitter.com/jbavari",
+      "email": "jbavari@gmail.com"
+    },
+    {
+      "name": "Ross Martin",
+      "web": "https://twitter.com/MountainDoofus",
+      "email": "rmartin311@gmail.com"
+    }
+  ],
+  "author": "Josh Bavari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esavolai/cordova-plugin-video-editor-fixed/issues"
+  },
+  "homepage": "https://github.com/esavolai/cordova-plugin-video-editor-fixed#readme"
+}
